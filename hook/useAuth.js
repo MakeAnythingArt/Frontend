@@ -39,6 +39,7 @@ function useAuth() {
       '/login',
       '/signup',
       '/home',
+      '/',
       '/home/start-making',
       '/home/start-making/build-your-own',
       '/home/start-making/build-your-own/help-carft',
